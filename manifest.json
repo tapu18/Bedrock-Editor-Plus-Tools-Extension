@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "test",
+        "name": "test",
+        "uuid": "F6B04127-045D-4884-A3FC-4907459F6041",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "test",
+            "type": "script",
+            "uuid": "9DA6FC79-DA07-46B0-A78E-77A667367A82",
+            "version": [
+                0,
+                0,
+                1
+            ],
+            "language": "javascript",
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server-editor",
+            "version": "0.1.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.5.0-beta"
+        }
+    ],
+    "capabilities": [
+        "editorExtension"
+    ]
+}
