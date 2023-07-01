@@ -57,7 +57,7 @@ function registerCylinderExtension() {
             });
             pane.addNumber(data, 'height', {
                 titleAltText: '高さ',
-                min: 2,
+                min: 1,
                 max: 16,
                 showSlider: true,
             });
