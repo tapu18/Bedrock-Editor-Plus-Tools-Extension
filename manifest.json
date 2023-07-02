@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "test",
-        "name": "test",
+        "description": "bedrock editor tools plus extension",
+        "name": "bedrock editor tools plus extension",
         "uuid": "F6B04127-045D-4884-A3FC-4907459F6041",
         "version": [
             0,
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "test",
+            "description": "bedrock editor tools plus extension",
             "type": "script",
             "uuid": "9DA6FC79-DA07-46B0-A78E-77A667367A82",
             "version": [
